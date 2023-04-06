@@ -1,3 +1,10 @@
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2: <br />
+This project was built as part of <a href="https://www.theodinproject.com/">The Odin Project.</a> <br />
+I developed this eCommerce site using functional React components, lifecycle hooks, Bootstrap, and React Router for navigation. I also ensured the site was developed to WCAG accessbility standards, using ARIA roles, semantic HTML, and accessible colors. <br />
+You can view the site here: https://jelewe.github.io/react-shopping-cart/ <br />
+:star2::star2::star2::star2::star2::star2::star2::star2::star2::star2: <br />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
